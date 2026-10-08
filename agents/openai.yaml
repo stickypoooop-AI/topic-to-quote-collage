@@ -1,0 +1,4 @@
+interface:
+  display_name: "主题到真实视频金句拼图"
+  short_description: "先对齐切入角度，再核验多语视频、翻译真实引语并制作可追溯拼图"
+  default_prompt: "使用 $topic-to-quote-collage，先和我确认这个主题的切入角度，再寻找原始视频并制作中文金句拼图。"

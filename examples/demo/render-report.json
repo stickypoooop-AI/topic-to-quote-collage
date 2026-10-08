@@ -1,0 +1,17 @@
+{
+  "kind": "synthetic_fixture",
+  "font_file": "STHeiti Medium.ttc",
+  "mode": "RGB",
+  "outputs": [
+    {
+      "name": "illustrative-demo.png",
+      "bytes": 148600
+    },
+    {
+      "name": "illustrative-demo.preview.png",
+      "bytes": 164529
+    }
+  ],
+  "visual_qa": "Layout reviewed from decoded full-size and 720x960 preview pixels; synthetic illustration, not real-source validation.",
+  "semantic_qa": "manifest declarations only; source/translation review is a host-agent responsibility"
+}
