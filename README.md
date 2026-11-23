@@ -1,5 +1,7 @@
 # topic-to-quote-collage
 
+**STAI 项目**
+
 **先确认编辑角度，再让真实来源决定引语，最后做中文视频金句拼图。**
 
 这是可独立复制的 Agent Skill。主题输入会先讨论切口；明确的视频、片段和修改 brief 可直接执行。原始多语演讲/访谈、准确原话、上下文、中文翻译与时间码一起交付，图片采用真实讲者主帧 + 字幕帧条。数量、来源网站和主题都不写死。不输出剪辑视频。
@@ -106,4 +108,4 @@ python3 scripts/render_collage.py job/manifest.json --out output-v1 --preview
 
 详见 [QA_REPORT.md](QA_REPORT.md)。本机验证不代表 Windows/Linux 全部实测，也不代表搜索、下载和语义核验已自动化。程序无法自动判定引语真实性、字体所有字形或人像裁切美感。
 
-作者：**stickypoooop-AI**。本项目按 **MIT License** 公开发布；安装由使用者自行决定。上游灵感、依赖和素材范围见 [NOTICE.md](NOTICE.md)；代码许可见 [LICENSE](LICENSE)。第三方视频、讲稿、人物及字体不因代码许可取得额外授权。
+项目署名：**STAI**。GitHub 发布账号：**stickypoooop-AI**。本项目按 **MIT License** 公开发布；安装由使用者自行决定。上游灵感、依赖和素材范围见 [NOTICE.md](NOTICE.md)；代码许可见 [LICENSE](LICENSE)。第三方视频、讲稿、人物及字体不因代码许可取得额外授权。
